@@ -28,8 +28,7 @@
 <img width="5%" title="Allure TestOps" src="src/icons/AllureTestOps.png">
 </p>
 
-### Contacts
-[![Telegram](src/icons/Telegram.png)](https://t.me/tsubasa13) [![Email](src/icons/Gmail_Icon.png)](mailto:cynic1394@gmail.com)
+
 
 
 
